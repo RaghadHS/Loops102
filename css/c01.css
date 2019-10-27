@@ -1,0 +1,38 @@
+body
+{
+    background-color: indianred;
+    text-align: center;
+    color: ivory;
+
+}
+
+body h3
+{
+    color: burlywood;
+    font-size: 100px;
+    margin-top: 0px;
+
+}
+
+body p
+{
+margin-top: 30px;
+color: cornsilk;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body footer
+{
+  color: antiquewhite;
+  font-size: 10px;
+  text-align-last: center;
+  padding-top: 350px;
+}
+body h4
+{
+    color: cornsilk;
+    font-size: 80px;
+    
+}
